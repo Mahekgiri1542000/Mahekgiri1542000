@@ -2,6 +2,9 @@
 
 <p align="center">
   <a href="https://mahekgiri.com">
+
+<p align="center">
+  <a href="https://mahekgiri.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Custom+WordPress+Themes+%26+Plugins;WooCommerce+%7C+ACF+Pro+%7C+Bedrock+%2F+Sage;Elementor+%7C+Bricks+%7C+Divi+%7C+Webflow;Core+Web+Vitals+%26+Technical+SEO" alt="Typing SVG"/>
   </a>
 </p>
@@ -53,24 +56,17 @@ $developer = [
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahekgiri1542000&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahekgiri1542000&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top Languages"/>
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahekgiri1542000&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahekgiri1542000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahekgiri1542000&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/github-snake.svg"/>
+  <img width="100%" alt="Contribution snake" src="profile-3d-contrib/github-snake.svg"/>
+</picture>
 
 ---
 
